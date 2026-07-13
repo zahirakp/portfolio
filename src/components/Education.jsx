@@ -46,6 +46,7 @@ const Education = () => {
           </p>
 
           <a
+          className=".certificate-image"
             href="/images/nsqf.png"
             target="_blank"
             rel="noreferrer"
